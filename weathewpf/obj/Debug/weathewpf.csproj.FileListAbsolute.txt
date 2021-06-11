@@ -1,0 +1,15 @@
+C:\Users\oussama2\source\repos\weather\weathewpf\bin\Debug\weathewpf.exe.config
+C:\Users\oussama2\source\repos\weather\weathewpf\bin\Debug\weathewpf.exe
+C:\Users\oussama2\source\repos\weather\weathewpf\bin\Debug\weathewpf.pdb
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.csprojAssemblyReference.cache
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\MainWindow.g.cs
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\App.g.cs
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf_MarkupCompile.cache
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf_MarkupCompile.lref
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\MainWindow.baml
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.g.resources
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.Properties.Resources.resources
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.csproj.GenerateResource.cache
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.csproj.CoreCompileInputs.cache
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.exe
+C:\Users\oussama2\source\repos\weather\weathewpf\obj\Debug\weathewpf.pdb
